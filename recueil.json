@@ -1,0 +1,284 @@
+{
+    "titre_chapitre": "Chroniques de Brazzaville : Rencontres Inattendues le Long de la Corniche",
+    "quiz": [
+      {
+        "question": "Quelle activité pratique le narrateur avec ses amis sur la Corniche ?",
+        "type": "qcm",
+        "reponses_possibles": [
+          "Vendre des souvenirs touristiques",
+          "Photographier des passants contre paiement",
+          "Guider des visites historiques"
+        ],
+        "reponse_correcte": "Photographier des passants contre paiement",
+        "explication": "Ils appellent cela 'la chasse aux photos' et proposent les clichés numériques contre 250 FCFA."
+      },
+      {
+        "question": "Comment s'appellent les deux étrangers rencontrés ?",
+        "type": "qcm",
+        "reponses_possibles": [
+          "Louis et Benjamin",
+          "Pierre et Jacques",
+          "Thomas et Matthias"
+        ],
+        "reponse_correcte": "Louis et Benjamin",
+        "explication": "Deux jeunes Allemands âgés de 24 et 25 ans."
+      },
+      {
+        "question": "Quelle bière locale les Allemands ont-ils appréciée au bar Pilchichi ?",
+        "type": "vrai_faux",
+        "reponse_correcte": "NGOK",
+        "explication": "Benjamin la décrit comme 'la meilleure' et 'très savoureuse'."
+      },
+      {
+        "question": "Quel sujet principal a dominé la discussion au bar ?",
+        "type": "qcm",
+        "reponses_possibles": [
+          "La musique congolaise",
+          "Les inégalités sociales et la corruption",
+          "Le tourisme en Afrique"
+        ],
+        "reponse_correcte": "Les inégalités sociales et la corruption",
+        "explication": "Ils ont débattu de l'économie, la gouvernance et les enjeux politiques de l'Afrique centrale."
+      },
+      {
+        "question": "Pourquoi le narrateur n'a-t-il pas bu de tequila ?",
+        "type": "open",
+        "reponse_correcte": "Par respect pour ses convictions religieuses",
+        "explication": "Le Mopao lui a offert un verre mais il s'est abstenu pour cette raison."
+      },
+      {
+        "question": "Quelle destination le trio a-t-il choisie pour continuer leur aventure ?",
+        "type": "qcm",
+        "reponses_possibles": [
+          "Pointe-Noire",
+          "Ouesso",
+          "Dolisie"
+        ],
+        "reponse_correcte": "Pointe-Noire",
+        "explication": "Surnommée 'Ponton la Belle', ville océane aux multiples identités."
+      },
+      {
+        "question": "Quel moyen de transport ont-ils choisi pour se rendre à Pointe-Noire ?",
+        "type": "qcm",
+        "reponses_possibles": [
+          "Avion",
+          "Bus",
+          "Bateau"
+        ],
+        "reponse_correcte": "Bus",
+        "explication": "Ils ont opté pour la route 'pour voir, pour vivre, pour sentir le pays'."
+      },
+      {
+        "question": "Que signifie le terme 'GARER' dans le contexte du récit ?",
+        "type": "open",
+        "reponse_correcte": "Un passant photographié ou une cible à l'improviste",
+        "explication": "Terme affectueux utilisé par le groupe pour désigner leurs sujets photographiques."
+      },
+      {
+  "question": "Le groupe de photographes est composé principalement de :",
+  "type": "qcm",
+  "reponses_possibles": ["Étudiants", "Jeunes diplômés", "Touristes"],
+  "reponse_correcte": "Jeunes diplômés",
+  "explication": "Le texte mentionne 'une vingtaine de jeunes diplômés'."
+},
+{
+  "question": "La scène se déroule près de :",
+  "type": "qcm",
+  "reponses_possibles": ["La Case Mandela", "La Case de Gaulle", "Le Mausolée Lumumba"],
+  "reponse_correcte": "La Case de Gaulle",
+  "explication": "Précisé dès la première phrase : 'près de la Case de Gaulle'."
+},
+{
+  "question": "Louis et Benjamin ont commandé des bières allemandes au bar.",
+  "type": "vrai_faux",
+  "reponse_correcte": false,
+  "explication": "Ils ont choisi la NGOK, une bière locale congolaise."
+},
+{
+  "question": "Citez deux surnoms de Pointe-Noire et leur signification.",
+  "type": "open",
+  "reponse_correcte": "Ex: 'Black Aurium City' (pétrole) / 'Ville des esprits d'eau' (traditions)",
+  "explication": "Le texte en liste 4 avec leurs connotations."
+},
+{
+  "question": "Dans quel ordre ces événements se sont-ils produits ?",
+  "type": "qcm",
+  "reponses_possibles": [
+    "Photo → Rendez-vous au bar → Discussion économie → Projet voyage",
+    "Discussion économie → Photo → Voyage → Bar"
+  ],
+  "reponse_correcte": "Photo → Rendez-vous au bar → Discussion économie → Projet voyage"
+},
+{
+  "question": "Le Mopao est :",
+  "type": "qcm",
+  "reponses_possibles": [
+    "Un ancien ministre",
+    "Un bar français installé à Brazzaville",
+    "Un surnom donné au photographe"
+  ],
+  "reponse_correcte": "Un bar français installé à Brazzaville",
+  "explication": "Décrit comme 'un Français installé depuis des années'."
+},
+{
+  "question": "Quel élément naturel est omniprésent dans la scène d'ouverture ?",
+  "type": "qcm",
+  "reponses_possibles": ["Le fleuve Congo", "La forêt équatoriale", "Les monts du Mayombe"],
+  "reponse_correcte": "Le fleuve Congo",
+  "explication": "Mentionné comme 'paisible et vaste' reflétant le soleil couchant."
+},
+{
+  "question": "Dans ce contexte, 'GARER' signifie :",
+  "type": "qcm",
+  "reponses_possibles": [
+    "Stationner une voiture",
+    "Une cible photographique improvisée",
+    "Un type de bière locale"
+  ],
+  "reponse_correcte": "Une cible photographique improvisée"
+},
+{
+  "question": "Pourquoi le narrateur est-il surpris par le choix de bière des Allemands ?",
+  "type": "open",
+  "reponse_correcte": "Parce qu'ils ont préféré une bière locale (NGOK) plutôt qu'une bière étrangère",
+  "explication": "Il s'attendait probablement à ce qu'ils choisissent une bière européenne comme la Bavaria."
+},{
+  "question": "Selon le Mopao, quel est le principal problème économique du Congo ?",
+  "type": "qcm",
+  "reponses_possibles": [
+    "Le manque de ressources naturelles",
+    "La corruption systémique",
+    "L'absence de main-d'œuvre qualifiée"
+  ],
+  "reponse_correcte": "La corruption systémique",
+  "explication": "Il affirme que 'tout est affaire de relations' et parle de détournement."
+},
+{
+  "question": "Quel est le ton dominant de ce chapitre ?",
+  "type": "qcm",
+  "reponses_possibles": [
+    "Pessimiste et critique",
+    "Optimiste et naïf",
+    "Réaliste avec des touches de légèreté"
+  ],
+  "reponse_correcte": "Réaliste avec des touches de légèreté",
+  "explication": "Mélange de descriptions sociales dures et de moments joyeux (rencontres, bière...)."
+},
+{
+  "titre_chapitre": "Découverte de la gastronomie nationale",
+  "quiz": [
+    {
+      "question": "Quel est le plat symbolique congolais présenté dans ce chapitre ?",
+      "type": "qcm",
+      "reponses_possibles": ["Le pénat", "Le foufou", "La soupe kandja"],
+      "reponse_correcte": "Le foufou",
+      "explication": "Décrit comme 'bien plus qu'un aliment' et fait à base de manioc.",
+      "difficulte": 1
+    },
+    {
+      "question": "Où se déroule la scène du repas ?",
+      "type": "qcm",
+      "reponses_possibles": [
+        "Hôtel Le Capital",
+        "Restaurant Sous le Manguier", 
+        "Marché Total"
+      ],
+      "reponse_correcte": "Restaurant Sous le Manguier",
+      "explication": "Situé près de l'aéroport avec un vieux manguier dans la cour.",
+      "difficulte": 2
+    },
+    {
+      "question": "Quelle boisson accompagne systématiquement les repas dans ce chapitre ?",
+      "type": "vrai_faux",
+      "reponse_correcte": "La NGOK",
+      "explication": "Bière locale mentionnée à la fois au restaurant et à l'hôtel.",
+      "difficulte": 1
+    },
+    {
+      "question": "Quelle réaction des Allemands surprend le narrateur lors du repas ?",
+      "type": "qcm",
+      "reponses_possibles": [
+        "Ils refusent de manger avec les mains",
+        "Ils mangent du foufou très pimenté sans réaction",
+        "Ils commandent uniquement des plats européens"
+      ],
+      "reponse_correcte": "Ils mangent du foufou très pimenté sans réaction",
+      "explication": "Benjamin mange 'sans broncher' comme un habitant de Makélékélé.",
+      "difficulte": 3
+    },
+    {
+      "question": "Quel jeu de cartes les personnages pratiquent-ils à l'hôtel ?",
+      "type": "qcm",
+      "reponses_possibles": [
+        "La belote",
+        "Le 8 Américain version congolaise",
+        "Le poker"
+      ],
+      "reponse_correcte": "Le 8 Américain version congolaise",
+      "explication": "Le narrateur introduit ce jeu avant d'apprendre la variante allemande.",
+      "difficulte": 2
+    },
+    {
+      "question": "Quelle combinaison permet une victoire instantanée dans la version allemande du jeu ?",
+      "type": "open",
+      "reponse_correcte": "31 points avec trois cartes de même couleur",
+      "explication": "Décrit dans les règles expliquées par Louis et Benjamin.",
+      "difficulte": 3
+    },
+    {
+      "question": "Que signifie 'Klopfen' dans le jeu de cartes allemand ?",
+      "type": "qcm",
+      "reponses_possibles": [
+        "Abandonner la partie",
+        "Demander à jouer un dernier tour",
+        "Changer toutes ses cartes"
+      ],
+      "reponse_correcte": "Demander à jouer un dernier tour",
+      "explication": "Déclenche la fin de manche où le plus faible perd une vie.",
+      "difficulte": 3
+    },
+    {
+      "question": "Quel plat Louis voulait-il absolument goûter après le foufou ?",
+      "type": "vrai_faux",
+      "reponse_correcte": "Le pénat (haricots à la sauce arachide)",
+      "explication": "Il prononce 'penath' en référence à ce plat traditionnel.",
+      "difficulte": 2
+    },
+    {
+      "question": "Quelle est la particularité de l'hôtel Le Capital ?",
+      "type": "open",
+      "reponse_correcte": "Il mêle élégance moderne et touches locales raffinées",
+      "explication": "Décrit comme une 'figure emblématique de l'esthétique hôtelière du pays'.",
+      "difficulte": 2
+    },
+    {
+      "question": "Que symbolisent les bars de rue décrits dans le chapitre ?",
+      "type": "qcm",
+      "reponses_possibles": [
+        "La modernité de Brazzaville",
+        "Des espaces de respiration face aux difficultés quotidiennes",
+        "Les inégalités sociales"
+      ],
+      "reponse_correcte": "Des espaces de respiration face aux difficultés quotidiennes",
+      "explication": "On y oublie 'les tracas d'un quotidien souvent lourd'.",
+      "difficulte": 3
+    },
+    {
+      "question": "Quel terme allemand désigne l'élimination au jeu de cartes ?",
+      "type": "qcm",
+      "reponses_possibles": ["Feuer", "Schwimmen", "Klopfen"],
+      "reponse_correcte": "Schwimmen",
+      "explication": "Littéralement 'nager' - on dit qu'il 'nage' après deux défaites.",
+      "difficulte": 3
+    },
+    {
+      "question": "Quelle technique culinaire est utilisée pour le pénat ?",
+      "type": "open",
+      "reponse_correcte": "Mijotage dans une sauce d'arachide",
+      "explication": "Haricots 'mijotés dans une onctueuse sauce d'arachide'.",
+      "difficulte": 2
+    }
+  ]
+}
+    ]
+  }
